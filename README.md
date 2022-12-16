@@ -37,6 +37,11 @@ How to run:
 	
 <img width="1440" alt="Screenshot 2022-12-16 at 6 03 15 PM" src="https://user-images.githubusercontent.com/28860154/208099988-2fb97561-2b34-487a-b01b-34dafdc7141f.png">
 
+After a search query for a speific keyword, 
+<img width="1440" alt="Screenshot 2022-12-16 at 6 33 30 PM" src="https://user-images.githubusercontent.com/28860154/208104589-be16647e-6d2b-47d0-8530-cf38f4c58197.png">
+
+
+
 
 
 Tech Stack Used:
