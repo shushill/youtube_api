@@ -12,6 +12,9 @@ run `docker-compose up -d` now, <br />
 run `docker-compose exec web python manage.py makemigrations` now, <br />
 run `docker-compose exec web python manage.py migrate` now, <br />
 
+if you want to close the docker container, then run:
+
+run `docker-compose down` now, <br />
 
 The above command will set up all the requirements, will do migrations, indexing in tables.
 
