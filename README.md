@@ -31,6 +31,16 @@ How to run:
 
 
 
+Tech Stack Used:
+----
+	HTML
+	CSS
+	Django
+	Django Rest Framework
+	Docker
+	Postgresql
+	
+
 References:
 ---
 
