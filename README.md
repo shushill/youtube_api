@@ -22,6 +22,8 @@ In the YoutubeAPI go to rooms folder and in the jobs.py, we can insert any query
 <img width="1438" alt="Screenshot 2022-12-16 at 6 12 40 PM" src="https://user-images.githubusercontent.com/28860154/208100988-118c46fa-b8c7-4f36-8cee-f6c5778dd6b5.png">
 
 And, Please change the Youtube API keys in .env folder inside youtubeapi.
+All the configuration keys are stored in .env file. For ex: postgres username, password, etc:
+Please do change the file according the requirement
 
 
 
