@@ -7,13 +7,15 @@ Try It
 
 open folder youtubeapi and run the following commands below:
 
-run `docker-compose build`
-run `docker-compose up -d`
-run `docker-compose exec web python manage.py makemigrations`
-run `docker-compose exec web python manage.py migrate`
+run `docker-compose build` now, 
+run `docker-compose up -d` now, 
+run `docker-compose exec web python manage.py makemigrations` now, 
+run `docker-compose exec web python manage.py migrate` now, 
 
 
 The above command will set up all the requirements, will do migrations, indexing in tables.
+
+
 
 
 
